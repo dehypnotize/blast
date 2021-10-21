@@ -1,0 +1,33 @@
+{
+    "info": {
+        "url_png_icon_64x64": " ",
+        "url_png_logo": " ",
+        "location": "New York",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "",
+        "1": ""
+      }
+    }
+}
