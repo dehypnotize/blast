@@ -3,4 +3,5 @@
 "description": "Low fees, 1 gig connection keep it safe and secure.",
 "ticker": "BLST",
 "homepage": " "
+“extended”: “https://raw.githubusercontent.com/dehypnotize/blast/main/extended.json"
 }
